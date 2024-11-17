@@ -34,7 +34,7 @@ Welcome to **Sundown Studio**, a responsive and interactive frontend website bui
 
 ## 📸 Screenshot
 
-![Preview](./img/shundown-studio.png)
+![Preview](https://github.com/Ankurptl247/Shundown-Studio/blob/main/img/sundown-studio.png)
 
 ---
 
