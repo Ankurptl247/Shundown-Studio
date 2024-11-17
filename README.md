@@ -3,7 +3,7 @@
 
 Welcome to **Sundown Studio**, a responsive and interactive frontend website built to showcase stunning spaces and experiences. This project demonstrates modern web development techniques with a focus on animations, responsiveness, and clean design.
 
-![Sundown Studio Preview](https://ankurptl247.github.io/Shundown-Studio/)
+![Sundown Studio Preview](https://ankurptl247.github.io/Shundown-Studio)
 
 ---
 
