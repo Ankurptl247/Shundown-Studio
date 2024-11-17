@@ -40,7 +40,7 @@ Welcome to **Sundown Studio**, a responsive and interactive frontend website bui
 
 ## 👨‍💻 Author
 
-Designed and developed with 💡 and 💻 by **[Your Name](https://github.com/yourusername)**.
+Designed and developed with 💡 and 💻 by **[Your Name](https://github.com/Ankurptl247)**.
 
 ---
 
